@@ -5,7 +5,7 @@
 - I'm currently learning React by building a [portfolio website](https://github.com/fpmrqs/react-portfolio)
 - Looking for my very first full time job in tech
 - I love all things Video Games
-- Feel free to check my [Github CV]()
+- Feel free to check my [Github CV](https://github.com/fpmrqs/CV)
 
 ### I've been building stuff using the technolgies below:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)  
